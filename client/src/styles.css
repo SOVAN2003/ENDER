@@ -1,0 +1,6 @@
+body {
+    background-color: black;
+    background-image: url("");
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    padding: 0 16px;
+  }
